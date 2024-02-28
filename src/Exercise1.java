@@ -6,5 +6,6 @@ public class Exercise1 {
         double result;
         result = i2 / d1 + d2 % i1 - l;
         System.out.println(result);
+
     }
 }
